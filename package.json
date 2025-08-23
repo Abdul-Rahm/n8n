@@ -2,7 +2,6 @@
   "name": "n8n-railway-deployment",
   "version": "1.0.0",
   "description": "N8N deployment on Railway",
-  "main": "index.js",
   "scripts": {
     "start": "n8n start"
   },
@@ -10,6 +9,6 @@
     "n8n": "latest"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20.19.0"
   }
 }
